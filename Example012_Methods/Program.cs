@@ -1,4 +1,5 @@
-﻿// Вид 1 
+﻿/*
+// Вид 1 
 
 void Method1()
 {
@@ -55,7 +56,7 @@ string Method4(int count, string text)
     }
     return result;
 }
-*/
+
 string Method4(int count, string text)
 {
     string result = String.Empty;
@@ -149,3 +150,4 @@ PrintArray(arr);
 SelectionSort(arr);
 
 PrintArray(arr);
+*/
